@@ -2,5 +2,4 @@
 
 - gitconfig .gitconfig
 - gitignore .gitignore
-- m2_settings.xml .m2/settings.xml
 
